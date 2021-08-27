@@ -1,0 +1,1 @@
+The first exercise in OOP python, concerning classes, objects and creating attributes and methods therein.
